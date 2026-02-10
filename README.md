@@ -1,4 +1,4 @@
-# Terraform Project
+# Terraform Project (AWS)
 
 Welcome to my **Terraform** project! This project automates the deployment of infrastructure on **AWS**, focusing on the setup of two **EC2** instances, each residing in different **subnets**. One instance acts as a **bastion host** while the other serves as an **application server**.
 
